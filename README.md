@@ -1,2 +1,5 @@
 # AWS FARGATE - TERRAFORM
-![alt Diagram] (./AWS_FARGATE-2.png)
+
+## Architecture Diagram
+
+![architecture diagram] (AWS_FARGATE-2.png)
