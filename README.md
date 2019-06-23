@@ -2,4 +2,4 @@
 
 ## Architecture Diagram
 
-![architecture diagram] (AWS_FARGATE-2.png)
+![architecture diagram](AWS_FARGATE-2.png)
